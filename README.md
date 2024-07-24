@@ -1,8 +1,8 @@
 - 👋 Hi, I’m risikesh thapa.
 - 👀 I’m interested in learning web development.
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me
+- 🌱 I’m currently learning mern stack.
+- 💞️ I’m looking to collaborate on github.
+- 📫 email- risi795353@gmail.com
 
 <!---
 rkxxtp/rkxxtp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
